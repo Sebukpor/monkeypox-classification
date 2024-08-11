@@ -15,18 +15,15 @@ License
 Installation
 Clone the repository:
 
-bash
+
 Copy code
 git clone https://github.com/sebukpor/monkeypox-classification.git
 cd monkeypox-classification
 Install required dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the script:
 
-bash
+
+
 Copy code
 python monkey_pox.py
 Dataset
