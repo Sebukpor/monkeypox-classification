@@ -1,5 +1,6 @@
 
 ##MonkeyPox Classification Model
+
 This project involves training a convolutional neural network (CNN) to classify images as either "MonkeyPox" or "Other" skin conditions. The model is built using TensorFlow and Keras, leveraging a pre-trained ResNet50 model to achieve high accuracy with a small dataset.
 
 Table of Contents
